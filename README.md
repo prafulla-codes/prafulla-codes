@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 🤝 I’m looking for help with **open source projects**
+- 🤝 I’m looking for contributing in  **open source projects**
 
-- 👨‍💻 All of my projects are available at [https://www.prafulla.tech](https://www.prafulla.tech)
+- 👨‍💻 You can checkout my protfolio - [https://www.prafulla.tech](https://www.prafulla.tech)
 
-- 📝 I regularly write articles on [https://dev.to/pika1998](https://dev.to/pika1998)
-
-- 💬 Ask me about **React and Node**
+- 📝 I write articles on [https://dev.to/pika1998](https://dev.to/pika1998)
 
 - ☕ Feel Free to reach out to me at **prafzzraichurkar1@gmail.com**
 
